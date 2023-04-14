@@ -1,0 +1,23 @@
+{
+  "name": "solidapi",
+  "version": "1.0.0",
+  "description": "Criando uma REST API  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcelo Pires",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.17.17",
+    "@types/node": "^18.15.11",
+    "@types/nodemailer": "^6.4.7",
+    "@types/uuidv4": "^5.0.0",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.1",
+    "uuidv4": "^6.2.13"
+  }
+}
